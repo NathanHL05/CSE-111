@@ -1,0 +1,48 @@
+
+Item: 16 oz frozen mixed vegetables	 Price: 1.49 	Quantity: 6 		 8.94
+Item: 10 oz frozen peas	 Price: 1.19 	Quantity: 8 		 9.52
+Item: 8 oz shredded mozzarella	 Price: 2.99 	Quantity: 2 		 5.98
+Item: 12 oz chocolate chips	 Price: 2.89 	Quantity: 1 		 2.89
+Subtotal: 27.330000000000002 
+Tax: 1.6398000000000001
+Total: 28.969800000000003
+Item: 1 lb broccoli	 Price: 1.69 	Quantity: 4 		 6.76
+Item: 1 lb spinach	 Price: 1.99 	Quantity: 2 		 3.98
+Item: paper towels (2 rolls)	 Price: 2.99 	Quantity: 3 		 8.97
+Subtotal: 19.71 
+Tax: 1.1826
+Total: 20.8926
+
+
+
+Item: 1 lb zucchini	 Price: 1.39 	Quantity: 3 		 4.17
+Item: all-purpose cleaner	 Price: 3.59 	Quantity: 2 		 7.18
+Item: 8 oz shredded mozzarella	 Price: 2.99 	Quantity: 5 		 14.95
+Item: 1 gallon milk	 Price: 2.85 	Quantity: 1 		 2.85
+Subtotal: 29.15 
+Tax: 1.75
+Total: 30.90
+
+
+	Smart Mart
+
+1 lb sweet potatoes	 | 	Price: 1.29	 | 	Quantity: 5 		 6.45
+1 lb blueberries	 | 	Price: 3.49	 | 	Quantity: 4 		 13.96Total items: 9
+Subtotal: 20.41 
+Tax: 1.22
+Total: 21.63November 2025, Friday 01:13 AM
+Thank you for shopping at Smart Mart
+Come again!
+
+
+	Smart Mart
+
+1 lb russet potatoes	 | 	Individual price: $0.99	 | 	Quantity: 3 		 $2.97
+1 lb blueberries	 | 	Individual price: $3.49	 | 	Quantity: 5 		 $17.45
+16 oz jelly	 | 	Individual price: $2.59	 | 	Quantity: 1 		 $2.59
+Total items: 9
+Subtotal: 23.01 
+Tax: 1.38
+Total: 24.39November 2025, Friday 01:20 AM
+Thank you for shopping at Smart Mart
+Come again!
